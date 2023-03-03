@@ -3,7 +3,7 @@
 ![badmath](https://img.shields.io/badge/Made%20With-JavaScript-red)
 ![badmath](https://img.shields.io/badge/Made%20With-IndexDB-green)
 ## description
-[Deployed Link](placeholder)
+[Deployed Link](https://young-lowlands-73976.herokuapp.com/)
 Just Another Text Editor, or J.A.T.E, is a text editor in the style of JavaScript and uses IndexDB to save text to the client side database and local storage. This allows you to still access your data when you install this PWA.
 ![gif of install](/assets/images/ezgif.com-optimize.gif)
  
